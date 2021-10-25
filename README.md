@@ -12,6 +12,6 @@ I have made this php text generator to make text generation easier. It is not a 
 4. Paste the key in `generator_main.php line 51`
 5. Start the text generator using any server and Generate Away!!
 
-The problem of output going bad when the text is edited will be solved by Novemeber 3rd.
+The problem of output going bad when the text is edited will be solved by Novemeber 3rd 2021.
 
 Thank You!
